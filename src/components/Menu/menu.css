@@ -1,0 +1,11 @@
+.appBar {
+  background-color: #00aaee;
+  display: flex;
+  align-items: center;
+}
+
+.white {
+  color: white;
+  font-size: larger;
+  align-items: center;
+}
